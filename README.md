@@ -32,10 +32,10 @@ a hundred thousand lines or so ago, a person i am working with had some urgent
 concerns about a license or i honestly don't even remember what. and i was
 perplexed by the seriousness of the tone. i had this to say.
 
-  if something crashes trying to read our endpoint, that's fucking stupid
-  and the service should be fixed. don't be hysterical. we're not building
-  critical infrastructure here, we're building a tui that has animated fucking
-  characters being silly.
+    if something crashes trying to read our endpoint, that's fucking stupid
+    and the service should be fixed. don't be hysterical. we're not building
+    critical infrastructure here, we're building a tui that has animated fucking
+    characters being silly.
 
 and i have to say i forgot this, everyone who heard this did, and it got kind of
 unpleasant to write software because i was, and everyone was, afraid of
@@ -58,6 +58,6 @@ when it is very clear that we have lost the plot, and there are too many people
 in the room with too many opinions and some of them should, i say this most
 sincerely, should please shut the fuck up and go back to programming.
 
-  jane michelle arc, 2026, the year that programming stopped being fun.
-  2026 is also the year of the linux desktop
+    jane michelle arc, 2026, the year that programming stopped being fun.
+    2026 is also the year of the linux desktop
 
