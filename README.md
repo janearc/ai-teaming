@@ -32,7 +32,7 @@ did it anyway, and i moved on with my life.
   golang that enforces basic code decency
 - [okapi](https://github.com/janearc/okapi): a documentation and comments
   linter
-- [libreadme](https://github.com/janearc/libreadme: a linter enforcing styles
+- [libreadme](https://github.com/janearc/libreadme): a linter enforcing styles
   that are legible to low-vision users
 - [pzm](https://github.com/janearc/puzzlemouth): a set of included
   functionality so agents build software with a reasonable set of features, from
